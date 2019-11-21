@@ -1,0 +1,11 @@
+name: ada-intro-python
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - ipywidgets
+  - datascience
+  - nltk
+  - requests
+  - sklearn
+  - string
