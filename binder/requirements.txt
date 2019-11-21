@@ -1,0 +1,6 @@
+numpy
+matplotlib
+requests
+string
+datascience
+scikit-learn
